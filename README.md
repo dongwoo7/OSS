@@ -1,4 +1,6 @@
-VMWare¿Í ESXi¸¦ »ç¿ëÇØº¸¾Ò½À´Ï´Ù
+#OSS
+
+VMWareì™€ ESXië¥¼ ì‚¬ìš©í•´ë³´ì•˜ìŠµë‹ˆë‹¤
 
 https://github.com/diridiri/kaist-open-source/tree/master/arcus
-¿¡¼­ DockerfileÀ» ÀÌ¿ëÇØ arcus¸¦ ±¸ÃàÇÏ¿´½À´Ï´Ù
+ì—ì„œ Dockerfileì„ ì´ìš©í•´ ubuntu, arcusë¥¼ êµ¬ì¶•í•˜ì˜€ìŠµë‹ˆë‹¤
